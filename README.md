@@ -26,6 +26,10 @@ Este é meu arquivo em md para registrar as principais informações do curso, e
 
 # Resumo das Aulas
 
+# Referencia JavaScript
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types
+
 ## 💡 Aula_01 e Aula_02
 
 Instalação e configuração do VSCode, Node.js, Terminal, GIT e GitHub
